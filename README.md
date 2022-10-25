@@ -3,14 +3,14 @@
 Курс разработки мобильных приложений на фреймворке React Native.
 
 ## Используемые инструменты:
-*[VsCode](https://code.visualstudio.com/Download)
-*[Figma](https://www.figma.com/)
-*[React Native](https://reactnative.dev/)
+* [VsCode](https://code.visualstudio.com/Download)
+* [Figma](https://www.figma.com/)
+* [React Native](https://reactnative.dev/)
 
 ## Полезные ссылки:
-*[Установка React Native](https://reactnative.dev/docs/environment-setup)
-*[Hello world! на React Native](https://reactnative.dev/docs/tutorial)
-*[Bottom Tabs навигатор](https://reactnavigation.org/docs/bottom-tab-navigator/)
+* [Установка React Native](https://reactnative.dev/docs/environment-setup)
+* [Hello world! на React Native](https://reactnative.dev/docs/tutorial)
+* [Bottom Tabs навигатор](https://reactnavigation.org/docs/bottom-tab-navigator/)
 
 ## Лабораторные
 1. Поэкспериментировать с хуком [useState](https://reactjs.org/docs/hooks-reference.html#usestate)
