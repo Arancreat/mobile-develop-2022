@@ -4,6 +4,7 @@
 
 ## Используемые инструменты:
 * [VsCode](https://code.visualstudio.com/Download)
+* [WebStorm](https://www.jetbrains.com/ru-ru/webstorm)
 * [Figma](https://www.figma.com/)
 * [React Native](https://reactnative.dev/)
 
